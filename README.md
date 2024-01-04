@@ -1,4 +1,4 @@
-#zoo_Unet_mobilev2Uney++
+#zoo_Unet_mobilev2Unet++
 
 可选的网络有：Unet,Unet++,ResUnet++,MobielUnet,Mobilev2Unet++,Mobilev3Unet++
 
