@@ -1,0 +1,23 @@
+模型的参数量与每秒浮点运算数（FLOPs）
+RTX 4090(24GB) * 1
+
+unet：
+flops:  72.527904768.0 params:  34.525888.0
+0.472197
+
+unetpp：
+flops:  153.058541568.0 params:  36.628480.0
+1.038413
+
+resunetpp:
+flops:  17.932767232.0 params:  4.062673.0
+0.261611
+
+mobileunet:
+flops:  45.886341120.0 params:  15.112105.0
+0.379051
+
+mobilev2unetpp:
+flops:  10.138025984.0 params:  3.181569.0
+0.246107
+
