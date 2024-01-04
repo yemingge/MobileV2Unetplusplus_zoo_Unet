@@ -8,6 +8,8 @@
 
 提取码：h1xs
 
+baseline：https://github.com/BUAAXZzz/Unet_liver_seg
+
 网络结构图：
 
 <p align="center">
