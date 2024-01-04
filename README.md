@@ -10,4 +10,7 @@
 
 性能指标对比：
 
-| !(images/1.png) |
+
+<p align="center">
+<img src="1.png">
+</p>
